@@ -27,9 +27,9 @@ Given the list `[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]`, the output will be:
 
 ## How to Run
 1. Install Dart ([guide](https://dart.dev/get-dart)).
-2. Save the program in a file, e.g., `categorize_numbers.dart`.
+2. Save the program in a file, e.g., `Odd_Even.dart`.
 3. Run it in the terminal:
    ```
-   dart categorize_numbers.dart
+   dart Odd_Even.dart
    ```
 
